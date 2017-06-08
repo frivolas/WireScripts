@@ -1,6 +1,6 @@
 # WireScripts
-Scripts and apps for automated shape creation for the DIWire
-All scripts by Oscar Frias @_frix_
+Scripts and apps for automated shape creation for the DIWire <br>
+All scripts by Oscar Frias @\_frix\_ <br>
 www.oscarfrias.com
 
 ## 1 - Hawley Generator
